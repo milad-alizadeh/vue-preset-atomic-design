@@ -30,6 +30,5 @@ vue create --preset milad-alizadeh/vue-preset-atomic-design my-project-folder
 
 ```
 
-
 ## LICENSE
-MIT
+[MIT](https://raw.githubusercontent.com/milad-alizadeh/vue-preset-atomic-design/master/LICENSE)
