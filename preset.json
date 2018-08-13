@@ -10,7 +10,8 @@
       ]
     },
     "@vue/cli-plugin-unit-jest": {},
-    "vue-cli-plugin-scss-base": {}
+    "vue-cli-plugin-scss-base": {},
+    "vue-cli-plugin-atomic-design": {}
   },
   "router": true,
   "routerHistoryMode": true,
