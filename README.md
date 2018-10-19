@@ -10,6 +10,12 @@ vue-preset-atomic-design is an opinionated Vue CLI 3.0 preset for creating large
 * [@vue/cli-plugin-eslint](https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint) - Standard Config
 * [vue-router](https://github.com/vuejs/vue-router)
 * [vuex](https://github.com/vuejs/vuex)
+* [vuelidate](https://monterail.github.io/vuelidate/)
+* [vue-tel-input](https://educationlink.github.io/vue-tel-input/)
+* [credit-card-type](https://github.com/braintree/credit-card-type)
+* [platform](https://github.com/bestiejs/platform.js/)
+* [axios](https://github.com/axios/axios)
+
 * CSS Preprocessor - SCSS
 
 For information about the folder structure and atomic design please refer to [vue-cli-plugin-atomic-design documentation](https://github.com/milad-alizadeh/vue-cli-plugin-atomic-design).
