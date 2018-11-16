@@ -10,10 +10,10 @@
       ]
     },
     "@vue/cli-plugin-unit-jest": {},
-    "vue-cli-plugin-wi5-captive-network": {},
     "vue-cli-plugin-scss-base": {},
     "vue-cli-plugin-atomic-design": {},
-    "vue-cli-plugin-atomic-design-components": {}
+    "vue-cli-plugin-atomic-design-components": {},
+    "@akryum/vue-cli-plugin-ssr": {}
   },
   "router": true,
   "routerHistoryMode": true,
