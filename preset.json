@@ -10,10 +10,10 @@
       ]
     },
     "@vue/cli-plugin-unit-jest": {},
+    "vue-cli-plugin-storybook": {},
     "vue-cli-plugin-scss-base": {},
     "vue-cli-plugin-atomic-design": {},
-    "vue-cli-plugin-atomic-design-components": {},
-    "@akryum/vue-cli-plugin-ssr": {}
+    "vue-cli-plugin-atomic-design-components": {}
   },
   "router": true,
   "routerHistoryMode": true,
